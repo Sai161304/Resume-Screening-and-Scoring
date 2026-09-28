@@ -1,0 +1,25 @@
+FICTIONAL SAMPLE RESUME — this person does not exist.
+
+Alex Rivera
+City withheld | email withheld for sample
+
+Education
+B.S. Computer Science, Northlake College, 2023
+
+Skills
+Python, SQL, Git, Docker, FastAPI, PostgreSQL, pytest, REST APIs
+
+Experience
+Junior Software Intern, Harbor Apps (2023-2024)
+- Built REST APIs in Python and FastAPI for an inventory tool.
+- Wrote SQL queries against PostgreSQL.
+- Added pytest coverage for API endpoints.
+- Used Git and Docker in a small backend team.
+
+Projects
+Campus Lost-and-Found API
+- Designed a FastAPI service and stored items in PostgreSQL.
+- Evidence: "Built REST APIs in Python and FastAPI for an inventory tool."
+
+Certifications
+AWS Cloud Practitioner (fictional sample)

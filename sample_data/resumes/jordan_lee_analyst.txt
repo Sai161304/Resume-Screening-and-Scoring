@@ -1,0 +1,23 @@
+FICTIONAL SAMPLE RESUME — this person does not exist.
+
+Jordan Lee
+City withheld | email withheld for sample
+
+Education
+B.A. Business Analytics, Cedar Hill University, 2022
+
+Skills
+Excel, SQL, Tableau, Power BI, data analysis, reporting
+
+Experience
+Operations Analyst Intern, Maple Retail (2022-2023)
+- Built weekly Excel reports for store managers.
+- Wrote SQL extracts and published Tableau dashboards.
+- Documented data-quality checks for sales tables.
+
+Projects
+Store KPI Dashboard
+- Combined SQL extracts with Tableau visuals for fictional sample data.
+
+Certifications
+Tableau Desktop Specialist (fictional sample)

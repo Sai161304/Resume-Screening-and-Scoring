@@ -1,0 +1,21 @@
+FICTIONAL SAMPLE RESUME — this person does not exist.
+
+Sam Patel
+City withheld | email withheld for sample
+
+Education
+Diploma in Graphic Design, Riverside Institute, 2021
+
+Skills
+Figma, Adobe Illustrator, Photoshop, presentation design
+
+Experience
+Design Intern, Bright Poster Studio (2021-2022)
+- Created marketing posters and social images.
+- Prepared print-ready PDF artwork.
+
+Projects
+Festival poster series (fictional)
+- Illustrated a set of event posters in Illustrator.
+
+This sample is intentionally a weak skill match for the backend Python job.

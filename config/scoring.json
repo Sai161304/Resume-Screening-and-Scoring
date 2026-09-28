@@ -1,0 +1,20 @@
+{
+  "weights": {
+    "required_skills": 0.45,
+    "preferred_skills": 0.15,
+    "relevant_experience": 0.25,
+    "education": 0.10,
+    "supporting_evidence": 0.05
+  },
+  "thresholds": {
+    "min_resume_text_chars": 80,
+    "scanned_pdf_text_chars": 40
+  },
+  "notes": {
+    "required_skills": "Share of job-required skills that are evidenced in the resume.",
+    "preferred_skills": "Share of preferred/nice-to-have skills that are evidenced in the resume.",
+    "relevant_experience": "Overlap between job experience themes and resume experience/project evidence.",
+    "education": "Overlap between stated qualifications and resume education/certifications.",
+    "supporting_evidence": "Whether matched skills are backed by project or work-history quotes."
+  }
+}

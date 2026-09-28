@@ -1,0 +1,30 @@
+# Secrets and local environment
+.env
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Runtime folders created by the app
+uploads/
+exports/
+tmp/
+
+# Generated reports (keep sample templates only)
+*.xlsx
+!sample_data/**/*.xlsx

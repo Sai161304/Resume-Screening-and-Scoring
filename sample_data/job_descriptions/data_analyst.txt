@@ -1,0 +1,24 @@
+FICTIONAL SAMPLE JOB DESCRIPTION — not a real employer posting.
+
+Job title: Data Analyst
+
+Help the operations team turn spreadsheets and SQL extracts into clear reports.
+
+Required skills:
+- SQL
+- Excel
+- data analysis
+- Tableau or Power BI
+
+Preferred skills:
+- Python
+- pandas
+- statistics
+
+Qualifications:
+- Coursework in statistics, economics, business, or a related field
+
+Experience themes:
+- data analysis
+- reporting
+- dashboards

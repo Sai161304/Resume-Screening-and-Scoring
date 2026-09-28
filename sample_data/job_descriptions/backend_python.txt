@@ -1,0 +1,26 @@
+FICTIONAL SAMPLE JOB DESCRIPTION — not a real employer posting.
+
+Job title: Junior Backend Engineer (Python)
+
+We are looking for a junior backend engineer to help build internal APIs.
+
+Required skills:
+- Python
+- SQL
+- REST APIs
+- Git
+- Docker
+
+Preferred skills:
+- FastAPI or Django
+- PostgreSQL
+- AWS
+- pytest
+
+Qualifications:
+- Bachelor's degree in Computer Science or a related field, or equivalent practical coursework
+
+Experience themes:
+- backend
+- api
+- testing
